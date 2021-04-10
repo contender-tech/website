@@ -34,4 +34,4 @@ jobs:
 
       - name: Test project
         working-directory: ${{ matrix.working-directory }}
-        run: yarn test
+        run: yarn test --passWithNoTests
