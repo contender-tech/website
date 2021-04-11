@@ -9,6 +9,7 @@
           src="~/assets/logo-64px.png?webp"
           width="44"
           height="44"
+          alt="The Contender Tech logo, a blue whale spinning in a circle"
         />
         <p class="text-2xl text-gray-50 font-semibold tracking-wide">
           Contender

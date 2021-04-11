@@ -9,6 +9,7 @@
           src="~/assets/team.svg"
           width="464"
           height="252"
+          alt="A project manager looking at documents, and developer on his laptop"
         />
       </div>
       <div class="flex flex-1 flex-col my-12">
