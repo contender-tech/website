@@ -5,7 +5,11 @@
       class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-8 mx-auto mb-8 sm:mb-12 md:mb-16"
     >
       <div class="flex-1 pr-4 md:pr-8">
-        <img src="https://svgshare.com/i/W4N.svg" />
+        <img
+          src="~/assets/team.svg"
+          width="464"
+          height="252"
+        />
       </div>
       <div class="flex flex-1 flex-col my-12">
         <h1 class="text-3xl text-gray-900 font-semibold tracking-wide">

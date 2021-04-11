@@ -6,7 +6,9 @@
       <a href="#" class="flex items-center space-x-3">
         <img
           class="w-11"
-          src="https://i.ibb.co/Km94jDf/contender-tech-logo-64px.png"
+          src="~/assets/logo-64px.png?webp"
+          width="44"
+          height="44"
         />
         <p class="text-2xl text-gray-50 font-semibold tracking-wide">
           Contender
