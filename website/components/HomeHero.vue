@@ -1,8 +1,5 @@
 <template>
   <div id="hero">
-    <div id="background" class="relative">
-      <img class="absolute top-0 lg_left-0 right-0 z-0 w-full" />
-    </div>
     <div
       id="content"
       class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-8 py-4 mx-auto mb-8 sm:mb-12 md:mb-16"
