@@ -1,27 +1,24 @@
 <template>
-  <div id="about-us" class="bg-blue-100 mt-32 py-12">
-    <div class="container mx-auto px-6">
-      <div class="flex flex-col md:flex-row">
-        <div class="md:w-1/2 md:pr-8 lg:pr-16">
-          <img
-            src="~/assets/team.svg"
-            class="-mt-24 md:mt-0 lg:-mt-24 mb-16 md:mb-0"
-          />
-        </div>
-        <div class="md:w-1/2">
-          <h3 class="flex flex-col text-4xl text-secondary font-bold mb-6">
-            About us <span class="bg-primary h-1 w-20 block mt-4"></span>
-          </h3>
-          <p class="text-lg text-secondary-700 mb-4">
-            Contender Tech is the brainchild of Andrew, a bustling retail
-            professional, and Lewis, an accomplished software engineer and data
-            scientist.
-          </p>
-          <p class="text-lg text-secondary-700">
-            Our platform provides industry-disrupting solutions to retail
-            businesses and supply chains, with competition-killing AI included.
-          </p>
-        </div>
+  <div id="about" class="bg-gray-50">
+    <div
+      id="content"
+      class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-8 mx-auto mb-8 sm:mb-12 md:mb-16"
+    >
+      <div class="flex-1 pr-4 md:pr-8">
+        <img src="https://svgshare.com/i/W4N.svg" />
+      </div>
+      <div class="flex flex-1 flex-col my-12">
+        <h1 class="text-3xl text-gray-900 font-semibold tracking-wide">
+          About us
+        </h1>
+        <p class="text-lg text-gray-900 tracking-wide font-light mt-4">
+          Contender is the brainchild of Andrew, a bustling retail professional,
+          and Lewis, an accomplished software engineer and data scientist.
+        </p>
+        <p class="text-lg text-gray-900 tracking-wide font-light mt-4">
+          We provide industry-disrupting software to retail and supply chains,
+          leveraging competition-killing AI.
+        </p>
       </div>
     </div>
   </div>
