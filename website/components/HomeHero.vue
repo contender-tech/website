@@ -25,7 +25,11 @@
         </div>
       </div>
       <div class="flex-1 mt-4 sm:mt-40 mb-4 sm:mb-32">
-        <img src="https://svgshare.com/i/W4W.svg" />
+        <img
+          src="~/assets/deliveries.svg"
+          width="480"
+          height="356"
+        />
       </div>
     </div>
   </div>
