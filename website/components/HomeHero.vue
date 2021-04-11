@@ -29,6 +29,7 @@
           src="~/assets/deliveries.svg"
           width="480"
           height="356"
+          alt="A delivered stack of boxes"
         />
       </div>
     </div>
