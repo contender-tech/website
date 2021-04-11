@@ -3,6 +3,8 @@ module.exports = {
     extend: {
       colors: {
         primary: '#008FE1',
+      fontFamily: {
+        sans: ['Proxima Nova'],
       },
     },
   },
