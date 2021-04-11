@@ -2,7 +2,6 @@
   <main class="min-h-screen">
     <Navbar />
     <HomeHero />
-    <HomeProcess />
     <HomeAbout />
     <Footer />
   </main>
