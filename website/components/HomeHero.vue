@@ -17,7 +17,7 @@
         <div class="flex-col">
           <a href="#">
             <button
-              class="flex text-xl text-gray-50 font-semibold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow px-5 py-2 mt-8 justify-center"
+              class="flex text-2xl text-gray-50 font-semibold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow px-6 py-3 mt-8 justify-center"
             >
               Learn more
             </button>
