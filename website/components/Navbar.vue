@@ -6,10 +6,10 @@
       <li>
         <a href="#" class="flex items-center space-x-3">
           <img
-            class="w-11"
+            class="w-10 filter brightness-125"
             src="~/assets/logo-64px.png?webp"
-            width="44"
-            height="44"
+            width="40"
+            height="40"
             alt="The Contender Tech logo, a blue whale spinning in a circle"
           />
           <p class="text-2xl text-gray-50 font-semibold tracking-wide">
@@ -22,7 +22,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-4 py-1"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-5 py-2"
           >
             Home
           </p>
@@ -31,7 +31,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-5 py-2"
           >
             About
           </p>
@@ -40,7 +40,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-5 py-2"
           >
             Contact
           </p>
