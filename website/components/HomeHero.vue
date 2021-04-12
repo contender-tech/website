@@ -13,11 +13,11 @@
           Contender Tech Ltd.
         </p>
         <p
-          class="text-3xl sm:text-4xl text-gray-50 font-semibold tracking-wide mt-4"
+          class="text-3xl sm:text-4xl text-gray-50 font-semibold tracking-wide mt-3"
         >
           AI-Driven Logistics and Supply Chain
         </p>
-        <p class="text-xl text-gray-100 tracking-wide mt-8">
+        <p class="text-xl text-gray-100 tracking-wide mt-5">
           We're transforming how retail businesses and supply chains manage
           their inventory.
         </p>
