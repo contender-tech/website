@@ -7,7 +7,7 @@
         <a href="#" class="flex items-center space-x-3">
           <img
             class="w-10 filter brightness-125"
-            src="~/assets/logo-64px.png?webp"
+            src="~/assets/logo-80x96.png?webp"
             width="40"
             height="40"
             alt="The Contender Tech logo, a blue whale spinning in a circle"
