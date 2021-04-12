@@ -11,6 +11,10 @@
         <p class="text-4xl text-gray-50 font-semibold tracking-wide mt-4">
           AI-Driven Logistics and Supply Chain
         </p>
+        <p class="text-xl text-gray-100 tracking-wide mt-4 sm:mt-8">
+          We're transforming how retail businesses and supply chains manage
+          their inventory.
+        </p>
         <div class="flex-col">
           <a href="#">
             <button
