@@ -4,21 +4,27 @@
       id="content"
       class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-8 py-4 mx-auto"
     >
-      <div class="flex flex-col mt-40 sm:mb-32 w-full sm:w-1/2 relative">
-        <p class="text-2xl text-gray-50 font-semibold tracking-wide">
+      <div
+        class="flex flex-col mt-16 sm:mt-36 sm:mb-32 w-full sm:w-1/2 relative"
+      >
+        <p
+          class="hidden sm:flex text-2xl text-gray-50 font-semibold tracking-wide"
+        >
           Contender Tech Ltd.
         </p>
-        <p class="text-4xl text-gray-50 font-semibold tracking-wide mt-4">
+        <p
+          class="text-3xl sm:text-4xl text-gray-50 font-semibold tracking-wide mt-4"
+        >
           AI-Driven Logistics and Supply Chain
         </p>
-        <p class="text-xl text-gray-100 tracking-wide mt-4 sm:mt-8">
+        <p class="text-xl text-gray-100 tracking-wide mt-8">
           We're transforming how retail businesses and supply chains manage
           their inventory.
         </p>
         <div class="flex-col">
           <a href="#">
             <button
-              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-7 py-3 mt-4 justify-center"
+              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-7 py-3 mt-5 justify-center"
             >
               Learn more
             </button>
@@ -26,14 +32,14 @@
         </div>
       </div>
       <div
-        class="flex flex-1 sm:mt-40 mb-4 sm:mb-40 sm:absolute items-center left-64 sm:ml-8 md:ml-16 lg:ml-48"
+        class="flex flex-1 sm:mt-48 mb-4 sm:mb-40 sm:absolute items-center left-64 sm:ml-8 md:ml-16 lg:ml-48"
       >
         <img
           src="~/assets/deliveries.svg"
-          width="600"
-          height="445"
+          width="540"
+          height="400"
           alt="A delivered stack of boxes"
-          style="max-width: none; width: 600px"
+          style="max-width: none; width: 540px"
         />
       </div>
     </div>
