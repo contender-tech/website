@@ -22,7 +22,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-5 py-2"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-4 py-1"
           >
             Home
           </p>
@@ -31,7 +31,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-5 py-2"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
           >
             About
           </p>
@@ -40,7 +40,7 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-5 py-2"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
           >
             Contact
           </p>
