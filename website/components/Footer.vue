@@ -1,5 +1,5 @@
 <template>
-  <footer class="hero-bg">
+  <footer class="bg-gray-800 overflow-hidden">
     <div
       class="flex relative flex-col sm:flex-row container lg:max-w-5xl items-center sm:justify-between px-4 sm:px-6 py-5 mx-auto"
     >
