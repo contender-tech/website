@@ -1,7 +1,7 @@
 <template>
   <footer class="hero-bg">
     <div
-      class="flex relative flex-col sm:flex-row container lg:max-w-5xl items-center sm:justify-between px-8 py-8 mx-auto"
+      class="flex relative flex-col sm:flex-row container lg:max-w-5xl items-center sm:justify-between px-8 py-4 mx-auto"
     >
       <ul class="flex my-1">
         <li>
