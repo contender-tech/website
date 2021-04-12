@@ -11,7 +11,7 @@
           makes it easy to inform buying decisions.
         </p>
       </div>
-      <div class="flex flex-col md:flex-row md:mt-5 space-x-0 md:space-x-16">
+      <div class="flex flex-col md:flex-row mt-5 space-x-0 md:space-x-16">
         <div class="md:flex-1 mt-4 md:mt-3">
           <div class="text-blue-400">
             <svg
