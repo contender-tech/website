@@ -4,29 +4,32 @@
       id="content"
       class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-8 py-4 mx-auto"
     >
-      <div class="flex flex-1 flex-col mt-40 sm:mb-32">
+      <div class="flex flex-col mt-40 sm:mb-32 w-full sm:w-1/2 relative">
         <p class="text-2xl text-gray-50 font-semibold tracking-wide">
           Contender Tech Ltd.
         </p>
-        <p class="text-4xl text-gray-50 font-semibold tracking-wide mt-5">
+        <p class="text-4xl text-gray-50 font-semibold tracking-wide mt-4">
           AI-Driven Logistics and Supply Chain
         </p>
         <div class="flex-col">
           <a href="#">
             <button
-              class="flex text-2xl text-gray-50 font-semibold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow px-6 py-3 mt-8 justify-center"
+              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-7 py-3 mt-4 justify-center"
             >
               Learn more
             </button>
           </a>
         </div>
       </div>
-      <div class="flex-1 mt-4 sm:mt-40 mb-4 sm:mb-32">
+      <div
+        class="flex flex-1 sm:mt-40 mb-4 sm:mb-40 sm:absolute items-center left-64 sm:ml-8 md:ml-16 lg:ml-48"
+      >
         <img
           src="~/assets/deliveries.svg"
-          width="480"
-          height="356"
+          width="600"
+          height="445"
           alt="A delivered stack of boxes"
+          style="max-width: none; width: 600px"
         />
       </div>
     </div>
