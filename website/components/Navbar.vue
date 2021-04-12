@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="flex flex-col sm:flex-row container lg:max-w-5xl absolute top-0 left-0 right-0 z-10 px-8 py-3 mx-auto"
+    class="flex flex-row container lg:max-w-5xl absolute top-0 left-0 right-0 z-10 px-8 py-3 mx-auto"
   >
     <ul class="flex flex-grow items-center py-1 mx-auto">
       <li>
@@ -22,27 +22,9 @@
       <li>
         <a class="flex-none" href="#">
           <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-4 py-1"
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-7 py-2"
           >
             Home
-          </p>
-        </a>
-      </li>
-      <li>
-        <a class="flex-none" href="#">
-          <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
-          >
-            About
-          </p>
-        </a>
-      </li>
-      <li>
-        <a class="flex-none" href="#">
-          <p
-            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-0 hover:bg-opacity-20 rounded px-4 py-1"
-          >
-            Contact
           </p>
         </a>
       </li>
