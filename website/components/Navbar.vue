@@ -9,7 +9,7 @@
             class="w-10 filter brightness-125"
             src="~/assets/logo-80x96.png?webp"
             width="40"
-            height="40"
+            height="48"
             alt="The Contender Tech logo, a blue whale spinning in a circle"
           />
           <p class="text-2xl text-gray-50 font-semibold tracking-wide">
