@@ -10,7 +10,7 @@
         <div class="sm:hidden mt-5 mx-auto">
           <img
             class="rounded-md shadow-md"
-            src="~/assets/app-screenshot.png"
+            src="~/assets/app-screenshot.png?webp"
             width="383"
             height="202"
             alt="An in-app screenshot of Contender, an inventory management platform"
@@ -27,7 +27,7 @@
           class="absolute hidden sm:inline rounded-md shadow-md overflow-hidden mt-40 md:mt-36"
         >
           <img
-            src="~/assets/app-screenshot.png"
+            src="~/assets/app-screenshot.png?webp"
             width="766"
             height="404"
             alt="An in-app screenshot of Contender, an inventory management platform"
