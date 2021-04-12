@@ -2,6 +2,8 @@
   <main class="min-h-screen">
     <Navbar />
     <HomeHero />
+    <HomePlatform />
+    <HomeFeatures />
     <HomeAbout />
     <Footer />
   </main>
