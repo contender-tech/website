@@ -13,7 +13,7 @@
             src="~/assets/app-screenshot.png"
             width="383"
             height="202"
-            alt="A delivered stack of boxes"
+            alt="An in-app screenshot of Contender, an inventory management platform"
             style="width: 383px"
           />
         </div>
@@ -30,7 +30,7 @@
             src="~/assets/app-screenshot.png"
             width="766"
             height="404"
-            alt="A delivered stack of boxes"
+            alt="An in-app screenshot of Contender, an inventory management platform"
             style="max-width: none; width: 766px"
           />
         </div>
