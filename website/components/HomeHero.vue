@@ -4,28 +4,26 @@
       id="content"
       class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-4 sm:px-6 py-4 mx-auto"
     >
-      <div
-        class="flex flex-col mt-16 sm:mt-36 sm:mb-32 w-full sm:w-1/2 relative sm:pr-5"
-      >
-        <p
-          class="hidden sm:flex text-2xl text-gray-50 font-semibold tracking-wide"
-        >
+      <div class="flex flex-col mt-16 sm:mt-36 sm:mb-32 relative">
+        <p class="hidden sm:flex text-2xl text-gray-50 tracking-wide">
           Contender Tech Ltd.
         </p>
         <p
-          class="text-3xl sm:text-4xl text-gray-50 font-semibold tracking-wide mt-3"
+          class="text-3xl sm:text-4xl text-gray-50 font-semibold tracking-wide mt-3 sm:w-2/3 md:w-1/2"
         >
-          AI-Driven <span class="hidden sm:inline">Logistics and</span> Supply
-          Chain
+          Bringing AI to Supply Chain
+          <span class="hidden sm:inline">and Logistics</span>
         </p>
-        <p class="text-xl text-gray-100 tracking-wide mt-5">
+        <p
+          class="text-xl text-gray-100 tracking-wide mt-5 sm:pr-5 w-full sm:w-1/2 lg:w-3/5"
+        >
           We’re transforming the way that retail, logistics and supply chain
           does business.
         </p>
         <div class="flex-col">
           <a href="#">
             <button
-              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-6 py-3 mt-5 mb-3 justify-center"
+              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-6 py-3 mt-5 mb-5 justify-center"
             >
               Learn more
             </button>
