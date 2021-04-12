@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="flex flex-row container lg:max-w-5xl absolute top-0 left-0 right-0 z-10 px-8 py-3 mx-auto"
+    class="flex flex-row container lg:max-w-5xl absolute top-0 left-0 right-0 z-10 px-4 sm:px-6 py-2 sm:py-3 mx-auto"
   >
     <ul class="flex flex-grow items-center py-1 mx-auto">
       <li>
@@ -18,13 +18,24 @@
         </a>
       </li>
     </ul>
-    <ul class="flex items-center space-x-2 md:space-x-2 py-2 mx-auto">
+    <ul class="hidden sm:flex items-center space-x-2 md:space-x-2 py-2 mx-auto">
       <li>
         <a class="flex-none" href="#">
           <p
             class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-7 py-2"
           >
             Home
+          </p>
+        </a>
+      </li>
+    </ul>
+    <ul class="flex sm:hidden items-center space-x-2 md:space-x-2 py-2 mx-auto">
+      <li>
+        <a class="flex-none" href="#">
+          <p
+            class="text-gray-50 font-semibold tracking-wide bg-blue-100 bg-opacity-30 hover:bg-opacity-40 rounded px-7 py-2"
+          >
+            mob
           </p>
         </a>
       </li>
