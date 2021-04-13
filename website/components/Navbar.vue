@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="flex flex-row container xl:max-w-6xl absolute top-0 left-0 right-0 z-10 px-4 sm:px-6 py-2 sm:py-3 mx-auto"
+    class="flex flex-row container xl:max-w-6xl absolute top-0 left-0 right-0 z-10 px-4 sm:px-6 py-4 sm:py-6 mx-auto"
   >
     <ul class="flex flex-grow items-center py-1 mx-auto">
       <li>
