@@ -2,10 +2,10 @@
   <div id="hero" class="hero-bg overflow-hidden">
     <div
       id="content"
-      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-4 mx-auto"
+      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-8 mx-auto"
     >
       <div class="flex flex-col mt-16 sm:mt-36 sm:mb-32 relative">
-        <p class="hidden sm:flex text-2xl text-gray-50 tracking-wide">
+        <p class="hidden sm:flex text-xl text-gray-50 tracking-wide">
           Contender Tech Ltd.
         </p>
         <p
@@ -15,7 +15,7 @@
           <span class="hidden sm:inline">and Logistics</span>
         </p>
         <p
-          class="text-xl text-gray-100 tracking-wide mt-5 sm:pr-5 w-full sm:w-1/2 lg:w-3/5"
+          class="text-xl text-gray-100 tracking-wide mt-5 w-full sm:w-1/2 lg:w-3/5"
         >
           We’re transforming the way that retail, logistics and supply chain
           does business.
@@ -23,7 +23,7 @@
         <div class="flex-col">
           <a href="#">
             <button
-              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-6 py-3 mt-5 mb-5 justify-center"
+              class="flex text-xl text-gray-50 font-bold tracking-wide bg-blue-500 hover:bg-blue-400 rounded shadow-sm px-7 py-4 mt-12 mb-8 justify-center"
             >
               Learn more
             </button>
