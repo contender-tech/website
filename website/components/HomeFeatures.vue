@@ -12,7 +12,7 @@
         </div>
       </div>
       <div
-        class="flex flex-col md:flex-row mt-8 md:mt-16 space-x-0 md:space-x-20"
+        class="flex flex-col md:flex-row mt-8 md:mt-14 space-x-0 md:space-x-20"
       >
         <div class="md:flex-1 mt-4 md:mt-0">
           <div class="text-blue-400">
