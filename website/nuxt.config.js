@@ -39,6 +39,7 @@ export default {
       },
       { rel: 'manifest', href: '/site.webmanifest' },
       { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#2d89ef' },
+      { rel: 'stylesheet', href: '/proxima-nova.css' },
     ],
   },
 
