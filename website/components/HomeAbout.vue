@@ -2,7 +2,7 @@
   <div id="about" class="bg-gray-50 overflow-hidden">
     <div
       id="content"
-      class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-4 sm:px-6 py-12 mx-auto"
+      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-12 mx-auto"
     >
       <div class="flex-1 pr-4 md:pr-8">
         <img
