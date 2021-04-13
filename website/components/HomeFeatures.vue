@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-800 overflow-hidden">
     <div
-      class="flex flex-col items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-4 sm:px-6 py-8 mb-8 mx-auto"
+      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-8 mb-8 mx-auto"
     >
       <div class="flex flex-col mt-5">
         <h2 class="flex text-3xl text-gray-300 text-center">Features</h2>

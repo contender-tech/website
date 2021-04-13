@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-gray-800 overflow-hidden">
     <div
-      class="flex relative flex-col sm:flex-row container lg:max-w-5xl items-center sm:justify-between px-4 sm:px-6 py-5 mx-auto"
+      class="flex relative flex-col sm:flex-row container xl:max-w-6xl items-center sm:justify-between px-4 sm:px-6 py-5 mx-auto"
     >
       <ul class="flex my-1">
         <li>

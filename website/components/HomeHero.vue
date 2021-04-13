@@ -2,7 +2,7 @@
   <div id="hero" class="hero-bg overflow-hidden">
     <div
       id="content"
-      class="flex flex-col sm:flex-row items-center container lg:max-w-5xl relative top-0 left-0 right-0 px-4 sm:px-6 py-4 mx-auto"
+      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-4 mx-auto"
     >
       <div class="flex flex-col mt-16 sm:mt-36 sm:mb-32 relative">
         <p class="hidden sm:flex text-2xl text-gray-50 tracking-wide">
