@@ -31,14 +31,14 @@
         </div>
       </div>
       <div
-        class="hidden sm:flex flex-1 sm:mt-48 mb-4 sm:mb-40 sm:absolute items-center left-64 sm:ml-8 md:ml-16 lg:ml-48"
+        class="hidden sm:flex flex-1 sm:mt-48 mb-4 sm:mb-40 sm:absolute items-center left-64 sm:ml-4 md:ml-24 lg:ml-48 xl:ml-64"
       >
         <img
           src="~/assets/deliveries.svg"
-          width="540"
-          height="400"
+          width="600"
+          height="445"
           alt="A delivered stack of boxes"
-          style="max-width: none; width: 540px"
+          style="max-width: none; width: 600px"
         />
       </div>
     </div>
