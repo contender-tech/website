@@ -1,13 +1,13 @@
 <template>
   <div class="bg-gray-50 overflow-hidden">
     <div
-      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-8 mx-auto"
+      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-10 mx-auto"
     >
-      <div class="flex flex-col max-w-3xl mt-5 mb-8 sm:mb-16">
+      <div class="flex flex-col max-w-3xl mt-12 mb-8 sm:mb-24">
         <h2 class="flex text-3xl text-gray-900 text-center mx-auto">
           Our platform
         </h2>
-        <div class="sm:hidden mt-5 mx-auto">
+        <div class="sm:hidden mt-8 mx-auto">
           <img
             class="rounded-md shadow-md"
             src="~/assets/app-screenshot.png?webp"
@@ -17,14 +17,14 @@
             style="width: 383px"
           />
         </div>
-        <p class="flex text-lg text-gray-700 mt-6">
+        <p class="flex text-lg text-gray-700 mt-8">
           Contender is a data platform for managing your inventory. With a
           built-in layer of AI capabilities, our one-click demand forecasting
           makes it easy to inform buying decisions.
         </p>
         <div class="hidden sm:inline invisible" style="height: 404px"></div>
         <div
-          class="absolute hidden sm:inline rounded-md shadow-md overflow-hidden mt-40 md:mt-36"
+          class="absolute hidden sm:inline rounded-md shadow-md overflow-hidden mt-48 md:mt-40"
         >
           <img
             src="~/assets/app-screenshot.png?webp"
