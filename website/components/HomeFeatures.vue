@@ -1,18 +1,20 @@
 <template>
   <div class="bg-gray-800 overflow-hidden">
     <div
-      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-8 mb-8 mx-auto"
+      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-10 md:py-16 mb-8 mx-auto"
     >
-      <div class="flex flex-col mt-5">
-        <h2 class="flex text-3xl text-gray-300 text-center">Features</h2>
-        <p class="flex text-lg text-gray-200 mt-6">
-          Contender is a data platform for managing your inventory. With a layer
-          of AI capabilities built on top, our one-click demand forecasting
-          makes it easy to inform buying decisions.
-        </p>
+      <div class="flex justify-start w-full">
+        <div class="flex flex-col mt-5">
+          <h2 class="flex text-3xl text-gray-300">Features</h2>
+          <p class="flex text-lg text-gray-200 mt-5">
+            Our software offers a seamless experience at any scale.
+          </p>
+        </div>
       </div>
-      <div class="flex flex-col md:flex-row mt-5 space-x-0 md:space-x-16">
-        <div class="md:flex-1 mt-4 md:mt-3">
+      <div
+        class="flex flex-col md:flex-row mt-8 md:mt-16 space-x-0 md:space-x-20"
+      >
+        <div class="md:flex-1 mt-4 md:mt-0">
           <div class="text-blue-400">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +35,7 @@
             work with up to 5 teammates.
           </p>
         </div>
-        <div class="md:flex-1 mt-4 md:mt-3">
+        <div class="md:flex-1 mt-4 md:mt-0">
           <div class="text-blue-400">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +58,7 @@
             system with our easy spreadsheet handling.
           </p>
         </div>
-        <div class="md:flex-1 mt-4 md:mt-3">
+        <div class="md:flex-1 mt-4 md:mt-0">
           <div class="text-blue-400">
             <svg
               xmlns="http://www.w3.org/2000/svg"
