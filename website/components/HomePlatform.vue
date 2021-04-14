@@ -3,7 +3,7 @@
     <div
       class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-5 mx-auto"
     >
-      <div class="flex flex-col max-w-3xl mt-12 mb-24">
+      <div class="flex flex-col max-w-3xl mt-12 sm:mt-8 mb-24">
         <h2 class="text-3xl text-gray-900 text-center mx-auto">Our platform</h2>
         <p class="text-lg text-gray-700 mt-8">
           Contender is a data platform for managing
