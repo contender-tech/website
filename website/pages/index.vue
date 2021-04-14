@@ -1,5 +1,5 @@
 <template>
-  <main class="min-h-screen">
+  <main class="min-h-screen bg-gray-50">
     <Navbar />
     <div id="navbar-spacing" class="h-24"></div>
     <HomeHero />
