@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-800 overflow-hidden">
     <div
-      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-4 sm:px-6 py-10 md:py-16 mb-8 mx-auto"
+      class="flex flex-col items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-5 mt-12 mb-20 mx-auto"
     >
       <div class="flex justify-start w-full">
         <div class="flex flex-col mt-5">
