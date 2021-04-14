@@ -33,7 +33,7 @@
           <div class="relative">
             <img
               class="absolute max-w-none"
-              src="~/assets/storage.svg"
+              src="~/assets/storage-blue.svg"
               width="671"
               height="766"
               alt="An isometric drawing of a server room"
@@ -46,7 +46,7 @@
         </div>
         <div class="flex sm:hidden w-full mt-8">
           <img
-            src="~/assets/storage.svg"
+            src="~/assets/storage-blue.svg"
             width="335"
             height="382"
             alt="An isometric drawing of a server room"
