@@ -3,13 +3,10 @@
     <nav class="flex container xl:max-w-6xl px-5 py-4 mx-auto">
       <ul class="flex flex-grow space-x-4">
         <li>
-          <a
-            href="#"
-            class="flex items-center space-x-1 text-gray-700 duration-200 hover:text-blue-500 md:mr-5"
-          >
+          <a href="#" class="flex items-center space-x-1 text-gray-700 md:mr-5">
             <img
               src="~/assets/logo-96x96.png?webp"
-              class="w-12 filter saturate-150"
+              class="w-12 filter saturate-150 transform transition duration-500 hover:scale-125 hover:rotate-360"
               height="48"
               width="48"
               alt="The Contender Tech logo, a blue whale spinning in a circle"
