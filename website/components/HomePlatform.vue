@@ -14,15 +14,17 @@
           With a built-in layer of artificial intelligence, our one-click demand
           forecasting makes buying decisions easier.
         </p>
-        <div class="invisible" style="height: 404px"></div>
-        <div class="absolute rounded-md shadow-md overflow-hidden mt-48">
-          <img
-            src="~/assets/app-screenshot.png?webp"
-            width="766"
-            height="404"
-            alt="An in-app screenshot of Contender, an inventory management platform"
-            style="max-width: none; width: 766px"
-          />
+        <div class="relative">
+          <div class="absolute rounded-md shadow-md overflow-hidden mt-8">
+            <img
+              src="~/assets/app-screenshot.png?webp"
+              width="766"
+              height="404"
+              alt="An in-app screenshot of Contender, an inventory management platform"
+              style="max-width: none; width: 766px"
+            />
+          </div>
+          <div class="invisible" style="height: 404px"></div>
         </div>
       </div>
     </div>
