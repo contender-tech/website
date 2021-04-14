@@ -8,8 +8,11 @@
             class="flex items-center space-x-1 text-gray-700 duration-200 hover:text-blue-500 md:mr-5"
           >
             <img
-              src="~/assets/logo-96x96.png"
+              src="~/assets/logo-96x96.png?webp"
               class="w-12 filter saturate-150"
+              height="48"
+              width="48"
+              alt="The Contender Tech logo, a blue whale spinning in a circle"
             />
             <span class="text-xl font-semibold tracking-tight">Contender</span>
           </a>

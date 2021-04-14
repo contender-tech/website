@@ -33,8 +33,10 @@
           <div class="relative">
             <img
               class="absolute max-w-none"
-              src="https://svgshare.com/i/WAJ.svg"
-              alt="A delivered stack of boxes"
+              src="~/assets/storage.svg"
+              width="671"
+              height="766"
+              alt="An isometric drawing of a server room"
               style="height: 60vh"
             />
           </div>
@@ -44,8 +46,10 @@
         </div>
         <div class="flex sm:hidden w-full mt-8">
           <img
-            src="https://svgshare.com/i/WAJ.svg"
-            alt="A delivered stack of boxes"
+            src="~/assets/storage.svg"
+            width="335"
+            height="382"
+            alt="An isometric drawing of a server room"
           />
         </div>
       </div>
