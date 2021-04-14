@@ -43,7 +43,7 @@
         <li>
           <a
             href="#"
-            class="text-white bg-blue-500 duration-200 hover:bg-blue-400 rounded shadow-sm px-5 py-3"
+            class="text-white bg-blue-600 duration-200 hover:bg-blue-500 rounded shadow-sm px-5 py-3"
           >
             Try for free
           </a>

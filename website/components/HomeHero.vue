@@ -22,7 +22,7 @@
             </p>
             <div class="mt-5">
               <button
-                class="text-xl text-white bg-blue-500 font-semibold rounded shadow-sm px-8 py-3"
+                class="text-xl text-white bg-blue-600 duration-200 hover:bg-blue-500 font-semibold rounded shadow-sm px-8 py-3"
               >
                 Try for free
               </button>
