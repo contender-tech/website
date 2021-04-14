@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-50 mx-auto overflow-x-hidden">
-    <main
-      class="flex flex-col sm:flex-row container xl:max-w-6xl px-5 mt-8 mx-auto"
+    <div
+      class="flex flex-col sm:flex-row container xl:max-w-6xl px-5 mt-5 mx-auto"
     >
       <div class="flex flex-col sm:flex-row items-center sm:mt-8">
         <div
@@ -20,7 +20,7 @@
               We’re transforming the way that retail, logistics and supply chain
               does business.
             </p>
-            <div class="mt-5">
+            <div class="mt-8">
               <button
                 class="text-xl text-white bg-primary duration-200 hover:bg-blue-400 font-semibold rounded shadow-sm px-8 py-3"
               >
@@ -54,7 +54,7 @@
           />
         </div>
       </div>
-    </main>
+    </div>
   </div>
 </template>
 
