@@ -1,6 +1,7 @@
 <template>
   <main class="min-h-screen">
     <Navbar />
+    <div id="navbar-spacing" class="h-24"></div>
     <HomeHero />
     <HomePlatform />
     <HomeFeatures />
