@@ -50,6 +50,7 @@
             width="335"
             height="382"
             alt="An isometric drawing of a server room"
+            class="mx-auto"
           />
         </div>
       </div>
