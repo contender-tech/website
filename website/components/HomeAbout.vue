@@ -2,7 +2,7 @@
   <div id="about" class="bg-gray-50 overflow-hidden">
     <div
       id="content"
-      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-5 py-12 md:py-20 mx-auto"
+      class="flex flex-col sm:flex-row items-center container xl:max-w-6xl relative top-0 left-0 right-0 px-5 py-20 mx-auto"
     >
       <div class="flex-1 pr-4 md:pr-8">
         <img
@@ -14,7 +14,7 @@
       </div>
       <div class="flex flex-1 flex-col">
         <h1
-          class="text-3xl text-gray-900 font-semibold tracking-wide mt-8 sm:mt-0"
+          class="text-3xl text-gray-900 font-semibold tracking-wide mt-16 sm:mt-0"
         >
           About us
         </h1>
