@@ -42,8 +42,10 @@
           </li>
         </ul>
       </div>
-      <div class="text-sm text-gray-400">
-        <a href="http://www.freepik.com" class="hover:underline"
+      <div class="flex flex-col sm:flex-row items-center sm:justify-between">
+        <a
+          href="http://www.freepik.com"
+          class="text-gray-400 text-sm hover:underline"
           >Server graphic designed by fullvector / Freepik</a
         >
       </div>
