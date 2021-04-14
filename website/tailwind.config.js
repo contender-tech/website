@@ -4,6 +4,9 @@ module.exports = {
       fontFamily: {
         sans: ['Proxima Nova', 'sans-serif'],
       },
+      rotate: {
+        360: '360deg',
+      },
     },
   },
 }
