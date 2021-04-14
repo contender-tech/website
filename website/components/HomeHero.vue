@@ -21,11 +21,12 @@
               does business.
             </p>
             <div class="mt-8">
-              <button
-                class="text-xl text-white bg-primary duration-200 hover:bg-blue-400 font-semibold rounded shadow-sm px-8 py-3"
+              <a
+                href="#"
+                class="text-xl text-white bg-primary duration-200 hover:bg-blue-400 font-semibold rounded shadow-sm px-8 py-4"
               >
                 Try for free
-              </button>
+              </a>
             </div>
           </div>
         </div>
