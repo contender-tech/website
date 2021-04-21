@@ -14,16 +14,14 @@
               Bringing AI to Supply Chain
               <span class="hidden lg:inline">and Logistics</span>
             </p>
-            <p
-              class="text-xl text-gray-700 font-semibold mt-10 lg:mr-20 xl:mr-24"
-            >
+            <p class="text-xl text-gray-700 mt-8 lg:mr-20 xl:mr-24">
               We’re transforming the way that retail, logistics and supply chain
               does business.
             </p>
             <div class="mt-8">
               <a
                 href="#"
-                class="text-xl text-white bg-primary duration-200 hover:bg-blue-400 font-semibold rounded shadow-sm px-8 py-4"
+                class="text-xl text-white bg-primary duration-200 hover:bg-blue-400 rounded shadow-sm px-8 py-3"
               >
                 Try for free
               </a>
