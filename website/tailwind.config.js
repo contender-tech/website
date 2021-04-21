@@ -5,7 +5,7 @@ module.exports = {
         primary: '#196FF7',
       },
       fontFamily: {
-        sans: ['Proxima Nova', 'sans-serif'],
+        sans: ['NunitoSans', 'sans-serif'],
       },
       rotate: {
         360: '360deg',
