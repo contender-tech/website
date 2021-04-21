@@ -13,16 +13,14 @@
         />
       </div>
       <div class="flex flex-1 flex-col">
-        <h1
-          class="text-3xl text-gray-900 font-semibold tracking-wide mt-16 sm:mt-0"
-        >
+        <h1 class="text-3xl text-gray-900 font-semibold mt-16 sm:mt-0">
           About us
         </h1>
-        <p class="text-lg text-gray-900 tracking-wide font-light mt-4">
+        <p class="text-lg text-gray-900 font-light mt-4">
           Contender is the brainchild of Andrew, a bustling retail professional,
           and Lewis, an accomplished software engineer and data scientist.
         </p>
-        <p class="text-lg text-gray-900 tracking-wide font-light mt-4">
+        <p class="text-lg text-gray-900 font-light mt-4">
           We provide industry-disrupting software to retail and supply chains,
           leveraging competition-killing AI.
         </p>

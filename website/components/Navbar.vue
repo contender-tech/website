@@ -11,7 +11,7 @@
               width="48"
               alt="The Contender Tech logo, a blue whale spinning in a circle"
             />
-            <span class="text-xl font-semibold tracking-tight">Contender</span>
+            <span class="text-xl font-semibold">Contender</span>
           </a>
         </li>
         <li class="hidden sm:flex items-center">
@@ -49,9 +49,7 @@
       <ul class="flex sm:hidden flex-none items-center space-x-8">
         <li>
           <a href="#" class="flex-none"
-            ><p
-              class="text-gray-800 font-semibold tracking-wide hover:bg-gray-100 rounded px-2 py-2"
-            >
+            ><p class="text-gray-800 hover:bg-gray-100 rounded px-2 py-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
